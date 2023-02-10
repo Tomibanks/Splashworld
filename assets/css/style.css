@@ -430,7 +430,7 @@ h6 {
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
-    text-align: center;
+    /* text-align: center; */
   }
 
   #hero h6 {

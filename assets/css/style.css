@@ -7,7 +7,6 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: fantasy;
   color: #444444;
 }
 
@@ -360,7 +359,6 @@ h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: blue;
 }
 
 #hero h2 {
@@ -370,7 +368,6 @@ h6 {
 }
 
 #hero .btn-get-started {
-  font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
